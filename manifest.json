@@ -1,0 +1,19 @@
+{
+  "name": "Manganato Keys",
+  "version": "1.0",
+  "description": "Finally, the functionality to navigate through manga chapters via arrow keys has been added to chapmanganato.com",
+  "manifest_version": 3,
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://chapmanganato.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://chapmanganato.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
