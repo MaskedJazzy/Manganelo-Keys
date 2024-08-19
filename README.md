@@ -1,6 +1,6 @@
 # Manganelo-Keys
 
-🔍 Download the "Manganato Keys" files via CODE - Then download ZIP
+🔍 Download the "Manganelo Keys" files via CODE - Then download ZIP
 
 📁 Extract the contents of the zip folder anywhere on your pc 
 
@@ -8,4 +8,4 @@
 
 📦 Press load unpacked in the top left corner - select the folder for the files you just extracted. 
 
-📖 Go to manganato - start reading a manga and use the arrow keys to change chapter :) 
+📖 Go to Manganelo - start reading a manga and use the arrow keys to change chapter :) 
