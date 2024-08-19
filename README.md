@@ -1,4 +1,4 @@
-# Manganato-Keys
+# Manganelo-Keys
 
 🔍 Download the "Manganato Keys" files via CODE - Then download ZIP
 
